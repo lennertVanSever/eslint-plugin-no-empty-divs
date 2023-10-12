@@ -1,5 +1,5 @@
 module.exports = {
   rules: {
-    "no-empty-div": require("./rules/no-empty-div"),
+    "no-self-enclosing-div": require("./rules/no-empty-div"),
   },
 };
