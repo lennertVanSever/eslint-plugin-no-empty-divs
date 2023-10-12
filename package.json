@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-no-empty-divs",
   "version": "1.0.0",
-  "description": "",
+  "description": "ESLint plugin to disallow self-enclosing empty div tags in JSX.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -9,13 +9,13 @@ This ESLint plugin provides a rule to disallow self-enclosing empty `<div />` ta
 To install the plugin, navigate to your project's root directory and run:
 
 ```bash
-npm install /path/to/your/eslint-plugin-no-empty-divs
+npm install eslint-plugin-no-empty-divs --save-dev
 ```
 
 Or, if you're using Yarn:
 
 ```bash
-yarn add file:/path/to/your/eslint-plugin-no-empty-divs
+yarn add eslint-plugin-no-empty-divs --dev
 ```
 
 ## Configuration
